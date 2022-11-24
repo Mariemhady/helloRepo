@@ -1,0 +1,16 @@
+1- installation: 
+     sudo apt-get install git-all
+2- create repo 
+    git clone REPOLINK
+3- git checkout -b branchName
+        1- create new branch 
+        2- move to the new branch homepage
+4- stage our changes --> git add . ( . --> all changes)
+                        git commit -m "YOUR MSG"
+                        git push origin branchNam
+5- to know branch --> git branch
+6- to know changes --> git status
+7- to move from branch to other --> git checkout branchName
+8- git diff --> to check the different between your changes and the original changes
+
+9- git pull origin branchName

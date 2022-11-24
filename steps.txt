@@ -1,0 +1,23 @@
+1- npm init 
+2- npm install --save-dev mocha
+3- create test folder
+4- in package.json --> "test": "mocha"
+5- 
+        describe("", function(){
+            it("", function(){
+
+            })
+        })
+
+6- to run test --> npm test 
+
+
+----------------------------------------
+1- functions --> 
+    ts --> function --> service 
+    ts --> --> function
+
+2- developer -->develop function + test 
+
+
+3- function, ui, route, pipe, .....
